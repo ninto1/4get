@@ -12,3 +12,16 @@ I just wrote this because I didn't see the original 4get and wanted to download 
 
 ## Updates
 IDK if I will ever touch this again. Feel free to contribute if you really think it is a good idea.
+
+## Features
+It does:
+- dowload images
+- crash sometimes
+- accept just the board+thread number or a link
+- automatically create a forlder for each thread
+- detect if an image is already present and not download it again
+- also download webms
+It does not:
+- monitor threads
+- always work
+- revenge the murder of your dog
