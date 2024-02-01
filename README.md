@@ -26,3 +26,4 @@ It does not:
 - monitor threads
 - always work
 - revenge the murder of your dog
+- defend you from intercontinental ballistic missiles
