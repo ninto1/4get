@@ -20,7 +20,8 @@ It does:
 - accept just the board+thread number or a link
 - automatically create a forlder for each thread
 - detect if an image is already present and not download it again
-- also download webms  
+- also download webms
+
 It does not:
 - monitor threads
 - always work
